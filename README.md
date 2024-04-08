@@ -20,6 +20,6 @@ __FILE=RANDOM=PUBLIC__
 `python FB-KING.py`
 
 ## Find Me on :
-[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/Mahin.Ahmed.Official.BD)
-[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/Mahin.Ahmed.Official.BD)
+[![Facebook](https://img.shields.io/badge/Facebook-green?style=for-the-badge&logo=facebook)](https://fb.com/fbking.mahin.ahmed)
+[![Messenger](https://img.shields.io/badge/Chat-Messenger-blue?style=for-the-badge&logo=messenger)](https://m.me/fbking.mahin.ahmed)
 [![Github](https://img.shields.io/badge/Github-FB-KINGgreen?style=for-the-badge&logo=github)](https://github.com/FB-KING)
